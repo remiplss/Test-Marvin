@@ -131,6 +131,7 @@ export default class main extends Component {
                                 className="block appearance-none w-full bg-gray-700 text-white border border-gray-900 hover:border-gray-500 px-4 py-4 pr-8 rounded shadow leading-tight focus:outline-none focus:shadow-outline"
                             >
                                 <option value="" disabled selected hidden>Filtrer par region</option>
+                                <option value="">Tout</option>
                                 <option value="Africa">Afrique</option>
                                 <option value="Americas">Amerique</option>
                                 <option value="Asia">Asie</option>
